@@ -1,2 +1,1 @@
-# tindog-start-master
-Clone Business Website
+TinDog Starting Files
